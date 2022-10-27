@@ -12,3 +12,5 @@ algumas ideias de empreender, Como vou estar bem experiente, provavelmente Desen
 Meta daqui a 6 meses - Terminar o curso,e entrar no mercado de trabalho.
 
 Meta daqui a 2 anos - Estar Empregado na aréa, ser um dev Pleno,e estudar bastante tanto front quanto backend.
+
+Meta daqui a 5 anos - Estar trabalhando em uma empresa grande ou fora do Brasil, ser um dev Senior e fullstack.
